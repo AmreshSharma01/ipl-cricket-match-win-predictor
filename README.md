@@ -20,7 +20,7 @@ To run this project, you need to have the following dependencies installed on yo
 git clone https://github.com/AmreshSharma01/ipl-cricket-match-win-predictor.git
 ```
 
-1. Install the required dependencies using pip:
+2. Install the required dependencies using pip:
 
 ```bash
 pip install -r requirements.txt
